@@ -4,11 +4,9 @@
 
 This public domain pact (""Pact"") is a contract between you and [Entity Name], [Entity Form] number [Entity Number] (the ""Alliance""). You and the <Alliance> agree:
 
-    \ Contributions \
+    \ Contributions \ You assign to the <Alliance> joint copyright ownership in every computer code, configuration, documentation, or other work that you contribute (a ""Contribution of Yours"") to each release of software that you submit to the <Alliance> (a ""Release"") via the Internet application programming interface at [API URL] (the ""API"") or the World Wide Web site at [Website URL] (the ""Website""). You and the <Alliance> agree that neither will have to consult, get consent from, pay, or account to the other for any use or distribution of any <Contribution of Yours>.
 
-        \ Assignment \ You assign to the <Alliance> joint copyright ownership in every computer code, configuration, documentation, or other work that you contribute (a ""Contribution of Yours"") to each release of software that you submit to the <Alliance> (a ""Release"") via the Internet application programming interface at [API URL] (the ""API"") or the World Wide Web site at [Website URL] (the ""Website""). You and the <Alliance> agree that neither will have to consult, get consent from, pay, or account to the other for any use or distribution of any <Contribution of Yours>.
-
-        \ Public Dedication \ You and the <Alliance> grant each other permission to irrevocably and publicly disclaim, or dedicate to the public domain, all copyright interests, for the remainder of their term, in any <Contribution of Yours>, without additional permission, signature, or other formality, if a reliable legal means of doing so ever becomes available under the law governing this <Pact>. You or the <Alliance> agree to notify the other of any such disclaimer or dedication via the <API> or the <Website>.
+    \ Public Dedication \ You and the <Alliance> grant each other permission to irrevocably and publicly disclaim, or dedicate to the public domain, all copyright interests, for the remainder of their term, in any <Contribution of Yours>, without additional permission, signature, or other formality, if a reliable legal means of doing so ever becomes available under the law governing this <Pact>. You or the <Alliance> agree to notify the other of any such disclaimer or dedication via the <API> or the <Website>.
 
     \ Licenses \
 
@@ -16,13 +14,13 @@ This public domain pact (""Pact"") is a contract between you and [Entity Name], 
 
         \ Release License \ You grant the <Alliance> a perpetual, irrevocable, nonexclusive, worldwide, and free-of-charge license to exercise all exclusive rights of copyright owners in each <Contribution of Yours>. The purpose of this license is to act as a backup in case assignment of any joint copyright interest under {Contributions} is or becomes invalid or unenforceable.
 
-    \ Provenance Guarantees \ Each time you submit a <Release> to the <API> or the <Website>:
+    \ Provenance \ Each time you submit a <Release> to the <API> or the <Website>:
 
-        \\ You agree not to submit any <Release> that a <Contribution of Yours> of which you are not the sole copyright owner.
+        \ Sole Ownership of Contributions \ You agree not to submit any <Release> that a <Contribution of Yours> of which you are not the sole copyright owner.
 
-        \\ You agree to provide accurate information about the copyright authorship and ownership of other work contributed to each <Release> that you submit, according to the meaning given data or responses that you provide by the manual at [Manual URL].
+        \ Accurate Provenance Data \ You agree to provide accurate information about the copyright authorship and ownership of other work contributed to each <Release> that you submit, according to the meaning given data or responses that you provide by the manual at [Manual URL].
 
-        \\ You agree not to submit any <Release> for which you do not have all the legal rights needed to grant the license per {Release License}.
+        \ Release Rights \ You agree not to submit any <Release> for which you do not have all the legal rights needed to grant the license per {Release License}.
 
     \ Public Disclosure \ The <Alliance> agrees to publish information about this <Pact>, including your identity, as well as information about each <Release> that you submit, via the <API> and the <Website>.
 
@@ -30,4 +28,4 @@ This public domain pact (""Pact"") is a contract between you and [Entity Name], 
 
     \ California Law \ This <Pact> will be governed by the laws of the state of California and the federal government of the United States of America.
 
-    \ Termination \ Both You and the <Alliance> can terminate this <Pact> at any time by giving notice via the <API> or the <Website>. Neither joint ownership granted per {Contributions}, nor the permission granted per {Public Dedication}, nor the license granted per {Backstop Contributions License} will terminate when this <Pact> terminates. However, this <Pact> will not apply to any <Contribution of Yours> you make after this <Pact> terminates.
+    \ Termination \ Both You and the <Alliance> can terminate this <Pact> at any time by giving notice via the <API> or the <Website>. Neither assignment under {Contributions}, nor the permission under {Public Dedication}, nor the licenses under {Licenses} will terminate when this <Pact> terminates. However, this <Pact> will not apply to any <Contribution of Yours> you make after this <Pact> terminates.
