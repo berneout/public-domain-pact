@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "devDependencies": {
+    "commonform-cli": "^0.11.0"
+  },
+  "scripts": {
+    "test": "commonform lint < public-domain-pact.cform",
+    "build": "npm run txt",
+    "pretxt": "npm run docx",
+    "txt": "docx2txt < public-domain-pact.docx | tr '\t' ' ' | awk '1; {print \"\"}' > public-domain-pact.txt",
+    "docx": "commonform render -f docx -n outline -b blanks.json < public-domain-pact.cform > public-domain-pact.docx"
+  }
+}
