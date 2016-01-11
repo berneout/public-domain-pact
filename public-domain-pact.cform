@@ -6,7 +6,7 @@ This public domain pact (""Pact"") is a contract between you and [Entity Name], 
 
     \ Contributions \ You assign to the <Alliance> joint copyright ownership in every computer code, configuration, documentation, or other work that you contribute (a ""Contribution of Yours"") to each release of software that you submit to the <Alliance> (a ""Release"") via the Internet application programming interface at [API URL] (the ""API"") or the World Wide Web site at [Website URL] (the ""Website""). You and the <Alliance> agree that neither will have to consult, get consent from, pay, or account to the other for any use or distribution of any <Contribution of Yours>.
 
-    \ Public Dedication \ You and the <Alliance> grant each other permission to irrevocably and publicly disclaim, or dedicate to the public domain, all copyright interests, for the remainder of their term, in any <Contribution of Yours>, without additional permission, signature, or other formality, if a reliable legal means of doing so ever becomes available under the law governing this <Pact>. You or the <Alliance> agree to notify the other of any such disclaimer or dedication via the <API> or the <Website>.
+    \ Public Domain Dedication \ You and the <Alliance> grant each other permission to irrevocably and publicly disclaim, or dedicate to the public domain, all copyright interests, for the remainder of their term, in any <Contribution of Yours>, without additional permission, signature, or other formality, if a reliable legal means of doing so ever becomes available under the law governing this <Pact>. You or the <Alliance> agree to notify the other of any such disclaimer or dedication via the <API> or the <Website>.
 
     \ Licenses \
 
@@ -22,9 +22,11 @@ This public domain pact (""Pact"") is a contract between you and [Entity Name], 
 
         \ Release Rights \ You agree not to submit any <Release> for which you do not have all the legal rights needed to grant the license per {Release License}.
 
-    \ Public Disclosure \ The <Alliance> agrees to publish information about this <Pact>, including your identity, as well as information about each <Release> that you submit, via the <API> and the <Website>.
+    \ Alliance Services \
 
-    \ Public Licensing \ The <Alliance> agrees to publicly license each <Contribution of Yours> in each <Release> you submit by publishing pubic license terms via the <API> and the <Website>.
+        \ Public Disclosure \ The <Alliance> agrees to publish information about this <Pact>, including your identity, as well as information about each <Release> that you submit, via the <API> and the <Website>.
+
+        \ Public Licensing \ The <Alliance> agrees to publicly license each <Contribution of Yours> in each <Release> you submit by publishing pubic license terms via the <API> and the <Website>.
 
     \ California Law \ This <Pact> will be governed by the laws of the state of California and the federal government of the United States of America.
 
