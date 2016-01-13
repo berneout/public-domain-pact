@@ -4,17 +4,21 @@
 
 This public domain pact (""Pact"") is a contract between you and [Entity Name], a [Entity Form] (the ""Alliance""). You and the <Alliance> agree:
 
-    \ Joint Ownership \ You assign to the <Alliance> joint copyright ownership in all computer code, configuration, documentation, or other work that you contribute (a ""Contribution"") to each release of software (a ""Release"") that you submit to the <Alliance> via the Internet application programming interface at [API URL] (the ""API"") or the World Wide Web site at [Website URL] (the ""Website""). You and the <Alliance> agree that no joint owner of any <Contribution> will have to consult, get consent from, pay, or account to any other joint owner for any use or distribution of any <Contribution>.
+    \ Joint Ownership \
 
-    \ Nonassertion \ Any copyright ownership in a <Contribution> assigned under {Joint Ownership} will automatically return to you if the <Alliance>, or anyone who becomes a joint owner by assignment tracing back to the <Alliance>, sues anyone for infringement of copyright in that <Contribution>.
+        \ Assignment \ You assign to the <Alliance> joint copyright ownership in all computer code, configuration, documentation, or other work that you contribute (a ""Contribution"") to each release of software (a ""Release"") that you submit to the <Alliance> via the Internet application programming interface at [API URL] (the ""API"") or the World Wide Web site at [Website URL] (the ""Website"").
+
+        \ Independence \ You and the <Alliance> agree that no joint owner of any <Contribution> will have to consult, get consent from, pay, or account to any other joint owner for any use or distribution of any <Contribution>.
+
+        \ Nonassertion \ Any copyright ownership in a <Contribution> assigned under {Assignment} will automatically return to you if the <Alliance>, or anyone who becomes a joint owner by assignment tracing back to the <Alliance>, sues anyone for infringement of copyright in that <Contribution>.
 
     \ Public Domain Dedication \ You and the <Alliance> grant each other permission to irrevocably and publicly disclaim, or dedicate to the public domain, on behalf of all joint owners, all copyright interests, for the remainder of their term, in any <Contribution>, without additional permission, signature, or other formality, if a reliable legal means of doing so ever becomes available under the law governing this <Pact>. You or the <Alliance> agree to notify the other of any such disclaimer or dedication via the <API> or the <Website>.
 
     \ Licenses \
 
-        \ Backstop Contributions License \ You grant the <Alliance> a perpetual, irrevocable, nonexclusive, worldwide, and free-of-charge license to exercise all exclusive rights of copyright owners in each <Contribution>. The purpose of this license is to act as a backup in case assignment of any joint copyright interest under {Joint Ownership} is or becomes invalid or unenforceable.
+        \ Backstop Contributions License \ You grant the <Alliance> a perpetual, irrevocable, nonexclusive, worldwide, and free-of-charge license to exercise all exclusive rights of copyright owners in each <Contribution>. The purpose of this license is to act as a backup in case assignment of any joint copyright interest under {Assignment} is or becomes invalid or unenforceable.
 
-        \ Release License \ You grant the <Alliance> a perpetual, irrevocable, nonexclusive, worldwide, and free-of-charge license to exercise all exclusive rights of copyright owners in each <Contribution>. The purpose of this license is to act as a backup in case assignment of any joint copyright interest under {Joint Ownership} is or becomes invalid or unenforceable.
+        \ Release License \ You grant the <Alliance> a perpetual, irrevocable, nonexclusive, worldwide, and free-of-charge license to exercise all exclusive rights of copyright owners in each <Contribution>. The purpose of this license is to act as a backup in case assignment of any joint copyright interest under {Assignment} is or becomes invalid or unenforceable.
 
     \ Provenance \
 
@@ -32,4 +36,4 @@ This public domain pact (""Pact"") is a contract between you and [Entity Name], 
 
     \ California Law \ This <Pact> will be governed by the laws of the state of California and the federal government of the United States of America.
 
-    \ Termination \ Both You and the <Alliance> can terminate this <Pact> at any time by giving notice via the <API> or the <Website>. Neither assignment under {Joint Ownership}, nor the permission under {Public Domain Dedication}, nor the licenses under {Licenses}, nor the possibility of ownership returning to you under {Nonassertion} will terminate when this <Pact> terminates. However, this <Pact> will not apply to any <Contribution> you make after this <Pact> terminates.
+    \ Termination \ Both You and the <Alliance> can terminate this <Pact> at any time by giving notice via the <API> or the <Website>. Neither joint ownership under {Joint Ownership}, nor the permission under {Public Domain Dedication}, nor the licenses under {Licenses}  will terminate when this <Pact> terminates. However, this <Pact> will not apply to any <Contribution> you make after this <Pact> terminates.
