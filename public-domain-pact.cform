@@ -6,7 +6,7 @@ This public domain pact (""Pact"") is a contract between you and [Entity Name], 
 
     \ Joint Ownership \
 
-        \ Assignment to the Alliance \ You assign to the <Alliance> joint copyright ownership in all material that you contribute (a ""Contribution"") to each release of software (a ""Release"") that you approve via the Internet application programming interface at [API URL] (the ""API"") or the World Wide Web site at [Website URL] (the ""Website""). The purpose of this assignment is to give the <Alliance> the same legal power to license, disclaim, or dedicate copyright to the public that you have.
+        \ Assignment to the Alliance \ You assign to the <Alliance> joint copyright ownership in all material you contribute (a ""Contribution"") to each release of software (a ""Release"") you approve via the Internet application programming interface at [API URL] (the ""API"") or the World Wide Web site at [Website URL] (the ""Website""). The purpose of this assignment is to give the <Alliance> the same legal power to license, disclaim, or dedicate copyright to the public that you have.
 
         \ Independence \ You and the <Alliance> agree that no joint owner of any <Contribution> will have to consult, get consent from, pay, or account to any other joint owner of copyright in any <Contribution>. The purpose of this agreement is to avoid administrative burdens of joint copyright ownership.
 
@@ -26,13 +26,13 @@ This public domain pact (""Pact"") is a contract between you and [Entity Name], 
 
         \ Sole Ownership of Contributions \ You agree not to submit any <Release> that contains any <Contribution> of which you are not the sole copyright owner.
 
-        \ Accurate Provenance Data \ You agree to provide accurate information about the copyright authorship and ownership of other work contributed to each <Release> that you submit, according to the meaning given data or responses that you provide by the manual at [Manual URL].
+        \ Accurate Provenance Data \ You agree to provide accurate information about the copyright authorship and ownership of other work contributed to each <Release> you submit, according to the meaning given data or responses you provide by the manual at [Manual URL].
 
         \ Release Rights \ You agree not to submit any <Release> for which you do not have all the legal rights needed to grant the license per {Release License}.
 
     \ Alliance Services \
 
-        \ Public Disclosure \ The <Alliance> agrees to publish information about this <Pact>, including your identity, as well as information about each <Release> that you submit, via the <API> and the <Website>.
+        \ Public Disclosure \ The <Alliance> agrees to publish information about this <Pact>, including your identity, as well as information about each <Release> you submit, via the <API> and the <Website>.
 
         \ Public Licensing \ The <Alliance> agrees to publicly license each <Contribution> in each <Release> you submit by publishing pubic license terms via the <API> and the <Website>.
 
