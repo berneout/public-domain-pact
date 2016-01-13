@@ -1,0 +1,9 @@
+[ { "header": "The parties are signing this public domain pact on the dates by their signatures.",
+    "information": [ "date", "address", "email" ] },
+  { "header": "The parties are signing this public domain pact on the dates by their signatures.",
+    "entities": [
+      { "name": "Benerout Alliance, Inc.",
+        "jurisdiction": "California",
+        "form": "corporation",
+        "by": "Chief Executive Officer" } ],
+    "information": [ "date", "address", "email" ] } ]

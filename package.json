@@ -9,6 +9,6 @@
     "pdf": "doc2pdf public-domain-pact.docx",
     "pretxt": "npm run docx",
     "txt": "docx2txt < public-domain-pact.docx | tr '\t' ' ' | awk '1; {print \"\"}' | par -w72 > public-domain-pact.txt",
-    "docx": "commonform render -f docx -t 'Public Domain Pact' -n outline -b blanks.json < public-domain-pact.cform > public-domain-pact.docx"
+    "docx": "commonform render -f docx -t 'Public Domain Pact' -n outline -b blanks.json -s signatures.json < public-domain-pact.cform > public-domain-pact.docx"
   }
 }
