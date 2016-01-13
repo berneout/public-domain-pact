@@ -6,6 +6,8 @@ This public domain pact (""Pact"") is a contract between you and [Entity Name], 
 
     \ Contributions \ You assign to the <Alliance> joint copyright ownership in all computer code, configuration, documentation, or other work that you contribute (a ""Contribution of Yours"") to each release of software that you submit to the <Alliance> (a ""Release"") via the Internet application programming interface at [API URL] (the ""API"") or the World Wide Web site at [Website URL] (the ""Website""). You and the <Alliance> agree that no joint owner of any <Contribution of Yours> will have to consult, get consent from, pay, or account to any other joint owner for any use or distribution of any <Contribution of Yours>.
 
+    \ Nonassertion \ The <Alliance> agrees not to sue anyone for infringement of copyright in any <Contribution of Yours>. If the <Alliance> breaks this promise not to sue, any joint copyright interest the <Alliance> has or previously had in the <Contribution of Yours> will automatically and immediately return to you.
+
     \ Public Domain Dedication \ You and the <Alliance> grant each other permission to irrevocably and publicly disclaim, or dedicate to the public domain, on behalf of all joint owners, all copyright interests, for the remainder of their term, in any <Contribution of Yours>, without additional permission, signature, or other formality, if a reliable legal means of doing so ever becomes available under the law governing this <Pact>. You or the <Alliance> agree to notify the other of any such disclaimer or dedication via the <API> or the <Website>.
 
     \ Licenses \
@@ -30,4 +32,4 @@ This public domain pact (""Pact"") is a contract between you and [Entity Name], 
 
     \ California Law \ This <Pact> will be governed by the laws of the state of California and the federal government of the United States of America.
 
-    \ Termination \ Both You and the <Alliance> can terminate this <Pact> at any time by giving notice via the <API> or the <Website>. Neither assignment under {Contributions}, nor the permission under {Public Domain Dedication}, nor the licenses under {Licenses} will terminate when this <Pact> terminates. However, this <Pact> will not apply to any <Contribution of Yours> you make after this <Pact> terminates.
+    \ Termination \ Both You and the <Alliance> can terminate this <Pact> at any time by giving notice via the <API> or the <Website>. Neither assignment under {Contributions}, nor the permission under {Public Domain Dedication}, nor the licenses under {Licenses}, nor the possibility of returning ownership to you under {Nonassertion} will terminate when this <Pact> terminates. However, this <Pact> will not apply to any <Contribution of Yours> you make after this <Pact> terminates.
